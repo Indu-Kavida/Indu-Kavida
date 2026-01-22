@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Indu Kavida
 
-<!--
+
 ### 🚀 A Passionate Data Analyst  
 
 - 🌱 Currently learning **Data Analysis & Business Intelligence**  
