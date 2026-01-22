@@ -12,6 +12,6 @@
 ✧ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐱𝐜𝐞𝐥  ✧ 𝐒𝐐𝐋 ✧ 𝐏𝐨𝐰𝐞𝐫-𝐁𝐈 ✧ 𝐏𝐲𝐭𝐡𝐨𝐧(Pandas,Numpy)
 
 ### 📂 Portfolio  
-🔗 [View My Portfolio] : https://indu-kavida.github.io/Indu-Kavida-indukavida.github.io/#
+🔗 My Projects : https://indu-kavida.github.io/Indu-Kavida-indukavida.github.io/#
 
 -->
