@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Indu Kavida
 
 <!--
-**Indu-Kavida/Indu-Kavida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 A Passionate Data Analyst  
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Data Analysis & Business Intelligence**  
+- 📊 Interested in transforming raw data into meaningful insights  
+- 💡 Continuously improving my analytical, visualization, and problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Skills & Tools  
+
+✧ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐱𝐜𝐞𝐥  ✧ 𝐒𝐐𝐋 ✧ 𝐏𝐨𝐰𝐞𝐫-𝐁𝐈 ✧ 𝐏𝐲𝐭𝐡𝐨𝐧(Pandas,Numpy)
+
+### 📂 Portfolio  
+🔗 [View My Portfolio] : https://indu-kavida.github.io/Indu-Kavida-indukavida.github.io/#
+
 -->
